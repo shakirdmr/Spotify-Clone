@@ -1,0 +1,18 @@
+npm run start ------> to start frontend
+
+
+npm i // to install back the node_modules folder as per package.json
+
+heck CORS (Cross-Origin Resource Sharing) Configuration:
+Make sure that your backend server is configured to allow requests from your frontend domain. You can use the cors middleware in your Express app to handle CORS. Install it using:
+
+bash
+
+npm install cors
+
+
+iconify
+
+
+
+react contexts
